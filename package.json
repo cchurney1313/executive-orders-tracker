@@ -10,6 +10,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
+  "homepage": "https://cchurney1313.github.io/executive-orders-tracker/",
   "dependencies": {
     "react-scripts": "^5.0.1"
   },
