@@ -1,12 +1,9 @@
 {
   "files": {
-    "main.css": "/executive-orders-tracker/static/css/main.31d6cfe0.css",
-    "main.js": "/executive-orders-tracker/static/js/main.d47ff974.js",
-    "index.html": "/executive-orders-tracker/index.html",
-    "main.d47ff974.js.map": "/executive-orders-tracker/static/js/main.d47ff974.js.map"
+    "main.js": "/executive-orders-tracker/static/js/main.31d6cfe0.js",
+    "index.html": "/executive-orders-tracker/index.html"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.d47ff974.js"
+    "static/js/main.31d6cfe0.js"
   ]
 }
